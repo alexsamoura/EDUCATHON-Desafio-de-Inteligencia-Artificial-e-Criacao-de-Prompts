@@ -1,1 +1,1 @@
-# EDUCATHON-Desafio-de-Intelig-ncia-Artificial-e-Cria-o-de-Prompts
+# EDUCATHON-Desafio-de-Inteligência-Artificial-e-Criação-de-Prompts

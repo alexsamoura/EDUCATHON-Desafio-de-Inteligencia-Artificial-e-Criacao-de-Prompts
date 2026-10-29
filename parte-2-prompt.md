@@ -1,6 +1,6 @@
 # Parte 2: o prompt
 
-Prompt submetido no EDUCATHON (limite de 4.000 caracteres, pt-BR). Publicado como foi enviado.
+Prompt do EDUCATHON (limite de 4.000 caracteres, pt-BR), com dados da Pesquisa OD revisados para esta publicação.
 
 ```text
 Papel:
@@ -11,7 +11,7 @@ Um projeto social com time multidisciplinar de 5 pessoas atua em São Miguel Pau
 
 Trabalhadores, estudantes, entregadores e famílias de baixa renda usam bicicleta para trabalho, estudo, entregas e acesso a serviços. Porém, enfrentam trechos sem ciclovia, buracos, sujeira, pista escorregadia e conflitos com carros, ônibus e motos.
 
-A Pesquisa Origem e Destino 2023 aponta crescimento de 12% nas viagens de bicicleta entre 2017 e 2023, enquanto o total de deslocamentos caiu 18,5%. Em 2023, São Miguel tinha 18,75 km de ciclovias e ciclofaixas, contra mais de 30 km em Pinheiros, segundo levantamento citado pela Agência Mural. Na cidade de São Paulo, as mortes de ciclistas no Infosiga passaram de 34 em 2023 para 44 em 2024; esse dado é municipal, não específico de São Miguel.
+Segundo a Pesquisa Origem e Destino 2023, o total de viagens diárias na Região Metropolitana caiu cerca de 15% entre 2017 e 2023, mas as viagens de bicicleta não acompanharam essa queda. Em 2023, São Miguel tinha 18,75 km de ciclovias e ciclofaixas, contra mais de 30 km em Pinheiros, segundo levantamento citado pela Agência Mural. Na cidade de São Paulo, as mortes de ciclistas no Infosiga passaram de 34 em 2023 para 44 em 2024; esse dado é municipal, não específico de São Miguel.
 
 Objetivo:
 Proponha a melhor solução com IA para reduzir a insegurança desses ciclistas. Ela deve ser de baixo custo, viável para 5 pessoas e gerar um resultado acionável para embasar solicitações à CET e à Subprefeitura de São Miguel Paulista. Considere combinar relatos de ciclistas e dados públicos, como Pesquisa OD, GeoSampa, Infosiga e SP156, indicando a contribuição de cada fonte.
@@ -42,7 +42,7 @@ Apresente as quatro etapas e, depois, a solução em:
 5. Piloto e indicadores mensuráveis, sem prometer impactos não comprováveis.
 6. Limitações, riscos e mitigação.
 
-Use linguagem clara para banca não técnica. Limite toda a resposta a [LIMITE].
+Use linguagem clara para banca não técnica.
 ```
 
 ## Por que o prompt está montado assim
